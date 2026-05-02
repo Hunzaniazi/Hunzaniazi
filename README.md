@@ -18,8 +18,7 @@
 
 * 💻 Languages: `Python`, `JavaScript`, `C++`
 * 🌐 Frontend: `React`, `HTML`, `CSS`
-* ⚙️ Backend: `Flask`
-* 🗄️ Database: `SQLite`
+* 🗄️ Database: `Mysql`
 * 🔧 Tools: `Git`, `GitHub`, `VS Code`
 
 ---
